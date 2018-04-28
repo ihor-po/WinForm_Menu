@@ -1,0 +1,10 @@
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\bin\Debug\AddMenuItem.exe.config
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\bin\Debug\AddMenuItem.exe
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\bin\Debug\AddMenuItem.pdb
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\obj\Debug\AddMenuItem.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\obj\Debug\AddMenuItem.cmi_form.resources
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\obj\Debug\AddMenuItem.Properties.Resources.resources
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\obj\Debug\AddMenuItem.csproj.GenerateResource.Cache
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\obj\Debug\AddMenuItem.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\obj\Debug\AddMenuItem.exe
+\\Mac\iCloud\Step\WinForms\4_Menu\task3\AddMenuItem\obj\Debug\AddMenuItem.pdb
