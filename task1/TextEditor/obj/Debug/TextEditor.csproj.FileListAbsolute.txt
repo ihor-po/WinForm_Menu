@@ -1,0 +1,10 @@
+X:\Step\WinForms\4_Menu\task1\TextEditor\bin\Debug\TextEditor.exe.config
+X:\Step\WinForms\4_Menu\task1\TextEditor\bin\Debug\TextEditor.exe
+X:\Step\WinForms\4_Menu\task1\TextEditor\bin\Debug\TextEditor.pdb
+X:\Step\WinForms\4_Menu\task1\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+X:\Step\WinForms\4_Menu\task1\TextEditor\obj\Debug\TextEditor.te_form.resources
+X:\Step\WinForms\4_Menu\task1\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+X:\Step\WinForms\4_Menu\task1\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+X:\Step\WinForms\4_Menu\task1\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+X:\Step\WinForms\4_Menu\task1\TextEditor\obj\Debug\TextEditor.exe
+X:\Step\WinForms\4_Menu\task1\TextEditor\obj\Debug\TextEditor.pdb
