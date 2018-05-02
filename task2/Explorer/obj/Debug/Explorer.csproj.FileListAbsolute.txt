@@ -1,0 +1,10 @@
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\bin\Debug\Explorer.exe.config
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\bin\Debug\Explorer.exe
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\bin\Debug\Explorer.pdb
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\obj\Debug\Explorer.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\obj\Debug\Explorer.csproj.GenerateResource.Cache
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\obj\Debug\Explorer.exe
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\obj\Debug\Explorer.pdb
+\\Mac\iCloud\Step\WinForms\4_Menu\task2\Explorer\obj\Debug\Explorer.ExplorerForm.resources
